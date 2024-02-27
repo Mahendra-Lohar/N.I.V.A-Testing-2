@@ -32,7 +32,7 @@ def get_contact_number(contact_name):
     # Replace this function with your logic to retrieve the contact number by name
     # You may use a contacts API or a local contacts database
     # For simplicity, let's assume a static mapping in this example
-    contacts = {'swayam': '+919004502064', 'kalpesh': '+919321537473','mahindra':'+918623047067'}
+    contacts = {'sxyz': '+916789872064', 'jone': '+919321578698','uyg':'+917896543456'}
     # return contacts.get(contact_name, None)
     contact_number = contacts.get(contact_name.lower())
     if contact_number is None:

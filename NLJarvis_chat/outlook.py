@@ -9,8 +9,8 @@ from Listen import MicExecution
 EMAIL_CONFIG = {
     'smtp_server': 'smtp.gmail.com',
     'smtp_port': 587,
-    'smtp_username': 'niva.ai002@gmail.com',
-    'smtp_password': 'kjhf dzxm cbne lcjy',
+    'smtp_username': 'your email',
+    'smtp_password': 'your password',
 }
 
 def send_email(subject, body, to_email):
@@ -18,9 +18,9 @@ def send_email(subject, body, to_email):
     server = smtplib.SMTP('smtp.gmail.com',587)
     server.ehlo()
     server.starttls()
-    server.login("niva.ai002@gmail.com","kjhf dzxm cbne lcjy")
+    server.login("your email","your password")
     message = f"Subject: {subject}\n\n{body}"
-    server.sendmail("niva.ai002@gmail.com", to_email, message)
+    server.sendmail("your email", to_email, message)
     server.quit()
 
 

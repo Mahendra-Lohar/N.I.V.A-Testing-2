@@ -1,0 +1,220 @@
+{
+    "intents":[
+
+        {
+            "tag":"greeting",
+            "patterns":[
+                "hello","hii","hey","wake up","Niva"
+            ],
+            "responses":[
+                "Hello sir","How are you sir","Always for you sir","Hello","Here's your Assistant sir"
+            ]
+        },
+        {
+            "tag":"bye",
+            "patterns":[
+                "Bye","good bye","hey","see you later","sleep","exit"
+            ],
+            "responses":[
+                "Bye sir","bye","see you later sir","I am going.","It will be nice to meet you again sir","Good bye sir"
+            ]
+        },
+        {
+            "tag":"Health",
+            "patterns":[
+                "How are you Niva","aree you fine","are you alright ?"
+            ],
+            "responses":[
+                "yes Sir, I am fine","perfect","Cool","I am fine Sir , what's about you sir"
+            ]
+        }
+        ,
+        {
+            "tag":"identity",
+            "patterns":[
+                "your Name", "what is your name","who are you","what are you","naam"
+            ],
+            "responses":[
+                "My Name is Niva", "Niva", " I am Niva", "An A.I. Assitant", "Great Assitant"
+            ]
+        },
+        {
+            "tag":"time",
+            "patterns":[
+                "what is time", "time","samay","what's time"
+            ],
+            "responses":[
+                "time"
+            ]
+        },
+        {
+            "tag":"date",
+            "patterns":[
+                "What is date", "date","tareek","what's the date"
+            ],
+            "responses":[
+                "date"
+            ]
+        },
+        {
+            "tag":"day",
+            "patterns":[
+                "What is day", "today","din","what's the day"
+            ],
+            "responses":[
+                "day"
+            ]
+        },
+        {
+            "tag":"wikipedia",
+            "patterns":[
+                "Who is", "About","What is ","wikipedia"
+            ],
+            "responses":[
+                "wikipedia"
+            ]
+        },
+        {
+            "tag":"google",
+            "patterns":[
+                "google search", "google","search "
+            ],
+            "responses":[
+                "google"
+            ]
+        },
+        {
+            "tag":"screenshot",
+            "patterns":[
+                "Take screenshot", "Screenshots","screenshots","take ss","Take snapshot","take snapit","take a pic"
+            ],
+            "responses":[
+                "screenshot"
+            ]
+        }
+        ,
+        {
+            "tag":"cpu",
+            "patterns":[
+                "Battery", "Battery percentage","cpu","reamaining Battery","remaining battery percentage"
+            ],
+            "responses":[
+                "cpu"
+            ]
+        },
+        {
+            "tag":"weather",
+            "patterns":[
+                "weather", "temperature","tapman","temperature of","degree of temperature","garmi"
+            ],
+            "responses":[
+                "weather"
+            ]
+        },
+        {
+            "tag":"jokes",
+            "patterns":[
+                "tell me a joke", "joke sunao","joke bolo","jokes","jokes bol"
+            ],
+            "responses":[
+                "jokes"
+            ]
+        },
+        {
+            "tag":"open",
+            "patterns":[
+                "open word", "open cmd","open powerpoint","open command prompt","open excel","open paint"
+            ],
+            "responses":[
+                "open"
+            ]
+        },
+        {
+            "tag":"close",
+            "patterns":[
+                "close word", "close cmd","close powerpoint","close command prompt","close excel","close paint"
+            ],
+            "responses":[
+                "close"
+            ]
+        },
+        {
+            "tag":"news",
+            "patterns":[
+                "news","tell me a news", "give me some news","tell me a news"
+            ],
+            "responses":[
+                "news"
+            ]
+        },
+        {
+            "tag":"Note",
+            "patterns":[
+                "Create a document", "Take a Note for me", "Creata document", "open document", "write for me"
+            ],
+            "responses":[
+                "Note"
+            ]
+
+        },
+        {
+            "tag":"email",
+            "patterns":[
+                "write a mail for me", "send a mail for me", "email", "send email to ", "write a mail to "
+            ],
+            "responses":[
+                "email"
+            ]
+
+        },
+        {
+            "tag":"whatsapp",
+            "patterns":[
+                "write a whatsapp message for me", "send a whatsapp message for me", "whatsapp message", "send whatsapp message to ", "write a whatsapp message to ", "send a message", "whatsapp message" , "Whatsapp"
+            ],
+            "responses":[
+                "whatsapp"
+            ]
+
+        },
+        {
+            "tag":"summary",
+            "patterns":[
+                "write a summary for me", "write a summary of text for me", "summary", "summarize the text", "write a summary "
+            ],
+            "responses":[
+                "summary"
+            ]
+
+        }
+        
+
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

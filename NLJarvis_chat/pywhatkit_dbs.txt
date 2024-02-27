@@ -1,0 +1,76 @@
+--------------------
+Date: 2:2:2024
+Time: 4:14
+Phone number: +918623047067
+Message: Hello, this is Jarvis. How can I assist you today?
+--------------------
+Date: 2:2:2024
+Time: 4:18
+Phone number: +919325066278
+Message: Hello, this is Jarvis. How can I assist you today?
+--------------------
+Date: 2:2:2024
+Time: 4:22
+Phone number: +919325066278
+Message: Hello, this is Jarvis. How can I assist you today?
+--------------------
+Date: 3:2:2024
+Time: 1:59
+Phone number: +919325066278
+Message: Hello from Jarvis
+--------------------
+Date: 25:2:2024
+Time: 3:50
+Phone number: +919325066278
+Message: Hello from jarvis
+--------------------
+Date: 25:2:2024
+Time: 3:54
+Phone number: +919325066278
+Message: hello
+--------------------
+Date: 25:2:2024
+Time: 3:56
+Phone number: +919325066278
+Message: hello
+--------------------
+Date: 25:2:2024
+Time: 4:2
+Phone number: +919325066278
+Message: Hello, this is Jarvis. How can I assist you today?
+--------------------
+Date: 25:2:2024
+Time: 4:12
+Phone number: +919325066278
+Message: hello from jarvis
+--------------------
+Date: 25:2:2024
+Time: 4:35
+Phone number: +919325066278
+Message: hello jarvis
+--------------------
+Date: 25:2:2024
+Time: 4:35
+Phone number: +919325066278
+Message: 
+--------------------
+Date: 25:2:2024
+Time: 4:36
+Phone number: +919325066278
+Message: hello jarvis
+--------------------
+Date: 25:2:2024
+Time: 4:45
+Phone number: +919004502064
+Message: hello from niva
+--------------------
+Date: 25:2:2024
+Time: 4:53
+Phone number: +919004502064
+Message: hello from
+--------------------
+Date: 25:2:2024
+Time: 4:55
+Phone number: +919004502064
+Message: hello
+--------------------

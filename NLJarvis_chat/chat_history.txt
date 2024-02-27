@@ -1,0 +1,196 @@
+2024-02-06 20:59:14 - User: hello jarvis
+2024-02-06 20:59:14 - Assistant: Hello
+2024-02-06 20:59:20 - User: how are you
+2024-02-06 20:59:20 - Assistant: Cool
+2024-02-07 08:04:53 - User: hello jarvis
+2024-02-07 08:04:53 - Assistant: How are you sir
+2024-02-07 08:05:01 - User: hello jarvis
+2024-02-07 08:05:01 - Assistant: Always for you sir
+2024-02-07 08:05:33 - User: tell me about srk
+2024-02-07 08:05:33 - Assistant: wikipedia
+2024-02-07 10:34:38 - User: 
+2024-02-07 10:34:38 - Assistant: Always for you sir
+2024-02-07 10:34:47 - User: no
+2024-02-07 10:34:47 - Assistant: Here's your Assistant sir
+2024-02-07 10:34:56 - User: 
+2024-02-07 10:34:56 - Assistant: How are you sir
+2024-02-07 10:35:28 - User: 
+2024-02-07 10:35:28 - Assistant: Hello
+2024-02-07 10:35:41 - User: 
+2024-02-07 10:35:41 - Assistant: Hello
+2024-02-07 10:35:49 - User: 
+2024-02-07 10:35:49 - Assistant: Hello
+2024-02-07 10:35:57 - User: open excel
+2024-02-07 10:35:57 - Assistant: open
+2024-02-07 10:36:05 - User: 
+2024-02-07 10:36:05 - Assistant: Hello
+2024-02-07 10:36:13 - User: close excel
+2024-02-07 10:36:13 - Assistant: close
+2024-02-07 10:36:22 - User: open jo bolane wala map
+2024-02-07 10:36:22 - Assistant: open
+2024-02-07 10:36:30 - User: 
+2024-02-07 10:36:30 - Assistant: How are you sir
+2024-02-07 10:37:04 - User: place of boy
+2024-02-07 10:37:04 - Assistant: wikipedia
+2024-02-07 10:37:12 - User: 
+2024-02-07 10:37:12 - Assistant: Hello sir
+2024-02-07 10:37:21 - User: chat history
+2024-02-07 10:37:21 - Assistant: How are you sir
+2024-02-07 10:37:29 - User: 
+2024-02-07 10:37:29 - Assistant: Hello sir
+2024-02-07 10:37:37 - User: history txt file
+2024-02-07 10:37:37 - Assistant: How are you sir
+2024-02-07 10:37:46 - User: open txt file
+2024-02-07 10:37:46 - Assistant: open
+2024-02-07 10:37:55 - User: 
+2024-02-07 10:37:55 - Assistant: Hello sir
+2024-02-07 10:38:02 - User: 
+2024-02-07 10:38:02 - Assistant: Hello
+2024-02-07 10:38:22 - User: which is a competitive
+2024-02-07 10:38:22 - Assistant: wikipedia
+2024-02-07 10:38:29 - User: open whatsapp
+2024-02-07 10:38:29 - Assistant: open
+2024-02-07 10:38:36 - User: 
+2024-02-07 10:38:36 - Assistant: Hello
+2024-02-07 10:38:45 - User: open mail
+2024-02-07 10:38:45 - Assistant: open
+2024-02-07 10:39:13 - User: what is the launching of
+2024-02-07 10:39:13 - Assistant: wikipedia
+2024-02-07 10:39:22 - User: open whatsapp
+2024-02-07 10:39:22 - Assistant: open
+2024-02-07 10:39:30 - User: 
+2024-02-07 10:39:30 - Assistant: Here's your Assistant sir
+2024-02-07 10:39:39 - User: open excel
+2024-02-07 10:39:39 - Assistant: open
+2024-02-07 10:39:48 - User: open word
+2024-02-07 10:39:48 - Assistant: open
+2024-02-07 10:39:56 - User: 
+2024-02-07 10:39:56 - Assistant: Hello sir
+2024-02-07 10:40:05 - User: 
+2024-02-07 10:40:05 - Assistant: How are you sir
+2024-02-07 10:40:18 - User: 
+2024-02-07 10:40:18 - Assistant: Always for you sir
+2024-02-07 10:40:26 - User: 
+2024-02-07 10:40:26 - Assistant: Here's your Assistant sir
+2024-02-07 10:40:31 - User: how r u
+2024-02-07 10:40:31 - Assistant: news
+2024-02-07 10:40:39 - User: 
+2024-02-07 10:40:39 - Assistant: How are you sir
+2024-02-07 10:40:48 - User: what do you require
+2024-02-07 10:40:48 - Assistant: An A.I. Assitant
+2024-02-07 10:40:56 - User: 
+2024-02-07 10:40:56 - Assistant: Hello
+2024-02-07 10:41:04 - User: 
+2024-02-07 10:41:04 - Assistant: Hello sir
+2024-02-07 10:41:12 - User: 
+2024-02-07 10:41:12 - Assistant: Hello sir
+2024-02-07 10:41:25 - User: 
+2024-02-07 10:41:25 - Assistant: Hello sir
+2024-02-07 10:41:33 - User: 
+2024-02-07 10:41:33 - Assistant: Hello
+2024-02-07 10:41:42 - User: time kya hai
+2024-02-07 10:41:42 - Assistant: time
+2024-02-07 10:41:49 - User: 
+2024-02-07 10:41:49 - Assistant: Hello sir
+2024-02-07 10:41:59 - User: time kya hai
+2024-02-07 10:41:59 - Assistant: time
+2024-02-07 10:42:05 - User: kya waqt ho raha hai
+2024-02-07 10:42:05 - Assistant: Hello sir
+2024-02-07 10:42:13 - User: 
+2024-02-07 10:42:13 - Assistant: Hello
+2024-02-07 10:42:22 - User: samay
+2024-02-07 10:42:22 - Assistant: time
+2024-02-07 10:42:31 - User: 
+2024-02-07 10:42:31 - Assistant: Hello
+2024-02-07 10:42:39 - User: tarikh
+2024-02-07 10:42:39 - Assistant: Here's your Assistant sir
+2024-02-07 10:42:47 - User: 
+2024-02-07 10:42:47 - Assistant: Here's your Assistant sir
+2024-02-07 10:42:56 - User: open cooking page
+2024-02-07 10:42:56 - Assistant: open
+2024-02-07 10:43:07 - User: roommate
+2024-02-07 10:43:07 - Assistant: Always for you sir
+2024-02-07 10:43:16 - User: ya fir acche se
+2024-02-07 10:43:16 - Assistant: How are you sir
+2024-02-07 10:43:26 - User: yah fir acche se
+2024-02-07 10:43:26 - Assistant: How are you sir
+2024-02-07 10:43:35 - User: 
+2024-02-07 10:43:35 - Assistant: Always for you sir
+2024-02-07 10:43:43 - User: mere bhai
+2024-02-07 10:43:43 - Assistant: Hello sir
+2024-02-07 10:43:53 - User: bhai mere bhai
+2024-02-07 10:43:53 - Assistant: Always for you sir
+2024-02-07 10:44:01 - User: 
+2024-02-07 10:44:01 - Assistant: Hello
+2024-02-07 10:44:09 - User: 
+2024-02-07 10:44:09 - Assistant: Hello
+2024-02-07 10:44:33 - User: leaves of boy
+2024-02-07 10:44:33 - Assistant: wikipedia
+2024-02-07 10:45:01 - User: 
+2024-02-07 10:45:01 - Assistant: Hello sir
+2024-02-24 10:59:45 - User: hello jarvis
+2024-02-24 10:59:45 - Assistant: How are you sir
+2024-02-24 11:59:25 - User: hello jarvis
+2024-02-24 11:59:25 - Assistant: Always for you sir
+2024-02-25 02:50:13 - User: hello jarvis
+2024-02-25 02:50:13 - Assistant: Here's your Assistant sir
+2024-02-25 02:53:12 - User: hello jarvis
+2024-02-25 02:53:12 - Assistant: Here's your Assistant sir
+2024-02-25 02:58:32 - User: hello jarvis
+2024-02-25 02:58:32 - Assistant: Always for you sir
+2024-02-25 03:04:44 - User: hello jarvis how are you
+2024-02-25 03:04:44 - Assistant: perfect
+2024-02-25 03:35:00 - User: hello jarvis how are you
+2024-02-25 03:35:00 - Assistant: I am fine Sir , what's about you sir
+2024-02-25 03:35:24 - User: hello jarvis
+2024-02-25 03:35:24 - Assistant: Hello sir
+2024-02-25 03:38:29 - User: hello jarvis
+2024-02-25 03:38:29 - Assistant: Here's your Assistant sir
+2024-02-25 03:38:34 - User: tell me the weather
+2024-02-25 03:38:34 - Assistant: open
+2024-02-25 03:38:42 - User: 
+2024-02-25 03:38:42 - Assistant: How are you sir
+2024-02-25 03:39:07 - User: temperature
+2024-02-25 03:39:07 - Assistant: weather
+2024-02-25 03:39:20 - User: 
+2024-02-25 03:39:20 - Assistant: How are you sir
+2024-02-25 03:39:26 - User: 
+2024-02-25 03:39:26 - Assistant: Hello sir
+2024-02-25 03:43:15 - User: send a mail for me
+2024-02-25 03:43:15 - Assistant: email
+2024-02-25 03:43:31 - User: take a screenshot
+2024-02-25 03:43:31 - Assistant: screenshot
+2024-02-25 03:43:41 - User: exit
+2024-02-25 03:43:41 - Assistant: I am going.
+2024-02-25 03:43:46 - User: 
+2024-02-25 03:43:46 - Assistant: Hello
+2024-02-25 03:43:52 - User: 
+2024-02-25 03:43:52 - Assistant: Here's your Assistant sir
+2024-02-25 03:43:57 - User: 
+2024-02-25 03:43:57 - Assistant: Here's your Assistant sir
+2024-02-25 03:44:08 - User: 
+2024-02-25 03:44:08 - Assistant: Here's your Assistant sir
+2024-02-25 03:44:14 - User: 
+2024-02-25 03:44:14 - Assistant: Always for you sir
+2024-02-25 03:44:20 - User: 
+2024-02-25 03:44:20 - Assistant: Hello
+2024-02-25 04:43:37 - User: hello jarvis
+2024-02-25 04:43:37 - Assistant: Here's your Assistant sir
+2024-02-25 04:46:50 - User: send a whatsapp
+2024-02-25 04:46:50 - Assistant: whatsapp
+2024-02-25 04:47:11 - User: temperature
+2024-02-25 04:47:11 - Assistant: weather
+2024-02-25 04:49:07 - User: send a mail from
+2024-02-25 04:49:07 - Assistant: email
+2024-02-25 04:49:22 - User: temperature
+2024-02-25 04:49:22 - Assistant: weather
+2024-02-25 04:49:28 - User: ok bye
+2024-02-25 04:49:28 - Assistant: see you later sir
+2024-02-25 04:53:04 - User: send whatsapp
+2024-02-25 04:53:04 - Assistant: whatsapp
+2024-02-25 04:55:04 - User: send whatsapp message
+2024-02-25 04:55:04 - Assistant: whatsapp
+2024-02-25 05:59:54 - User: hello jarvis
+2024-02-25 05:59:54 - Assistant: Here's your Assistant sir
+2024-02-25 06:00:57 - User: hello jarvis
+2024-02-25 06:00:57 - Assistant: How are you
